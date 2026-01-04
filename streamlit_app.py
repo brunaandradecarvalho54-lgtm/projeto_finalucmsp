@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("Violencia é contra mulher por ser mulher")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    " A mulher é visto como objeto dominado desde das eras em que em mundo era 'civilizado' "
 )
